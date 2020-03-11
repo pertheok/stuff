@@ -1,0 +1,18 @@
+body {
+  display: grid;
+  background-color: #88a0a8;
+  justify-items: center;
+  align-items: center;
+  font-family: Calibri;
+  }
+
+#main {
+  display: grid;
+  justify-items: center;
+ }
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
